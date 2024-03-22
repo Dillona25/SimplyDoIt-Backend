@@ -1,4 +1,4 @@
-# Avinews Backend
+# SimplyDoIt Backend
 
 This is the backend for my application called Simply Do It. Simply Do It is an advanced to-do list app with many features. Users will need to first make an account in which they personalize to be their own. Users from here will be able to create, edit, delete and complete tasks that they want to keep track of. The application has a very slick UI with a great UX to compliment the entire application.
 
